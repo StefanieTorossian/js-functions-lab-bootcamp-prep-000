@@ -4,6 +4,6 @@ function happyHolidays(string) {
 }
   
   function happyHolidaysTo(name) {
-    if 
+    if ()
     console.log ("Happy holidays, ${name}!");
   }
