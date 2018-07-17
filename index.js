@@ -3,7 +3,7 @@ function happyHolidays(string) {
   return "Happy holidays!";
 }
   function happyHolidaysTo(string) {
-   if (function happyHolidaysTo === )
+   if (string === )
      
    }
   }
