@@ -5,5 +5,5 @@ function happyHolidays(string) {
   
   function happyHolidaysTo(name) {
     if (string ==== name); {
-    console.log ("Happy holidays, ${name}!");
+    return "Happy holidays, ${name}!";
   }
